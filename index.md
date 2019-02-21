@@ -1,8 +1,12 @@
-## Ruthann Wheeler
+## Educating for the Future
 
-You can use the [editor on GitHub](https://github.com/rarudd1/Educating_for_the_Future/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I first fell in love with education when I was a student at Brigham Young University. One of my first jobs as a student was working in the Mathematics education lab. 
+I went from person to person helping each student understand and finish their homework. I then taught in Utah at a Jr high school, and soon moved to Wyoming where I had my first child. 
+I took off a few years when I had my first babies, but then went back into online tutoring. I found that this one again fulfilled my need to help educate others. 
+After a few years of online education, I decided I wanted to get back into the classroom. I got back into substituting in our local school district. 
+I was asked to be in charge of the academic support program at the high school, and became the assistant high school drama coach. 
+My husband then got a job in another city and we moved our family to Northern Wyoming. We lived in a very small town in which there was no daycare. Since my littlest was still at home I stayed home with him for a year. After which I was able to once again get back into the schools where I substituted and played the piano for the school choirs. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
