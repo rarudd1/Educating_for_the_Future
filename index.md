@@ -7,7 +7,7 @@ After a few years of online education, I decided I wanted to get back into the c
 I was asked to be in charge of the academic support program at the high school, and became the assistant high school drama coach. 
 My husband then got a job in another city and we moved our family to Northern Wyoming. We lived in a very small town in which there was no daycare. Since my littlest was still at home I stayed home with him for a year. After which I was able to once again get back into the schools where I substituted and played the piano for the school choirs. 
 
-layout:_posts
+[_posts]
 
 ### Markdown
 
